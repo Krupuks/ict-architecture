@@ -1,5 +1,7 @@
 # The Healer of the Misty Village
 
+_author: ChatGPT_
+
 Once upon a time, there was a small village nestled in a valley surrounded 
 by towering mountains. The villagers were a hardworking and peaceful 
 people, but they were plagued by a mysterious affliction. Every night, the 
